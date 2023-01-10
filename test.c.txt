@@ -1,5 +1,0 @@
-#include<stdio.h>
-{
-	prinnf("haha\n");
-	return 0;
-}
